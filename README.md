@@ -1,12 +1,9 @@
-# seo-refactor
-
-[Live Site](example)
+# Horiseon SEO Refactor
 
 ## Table of Contents
 1. [Description](#description)
-2. [Usage](#usage)
 3. [Visuals](#visuals)
-4. [Authors and Acknowledgements](#authors-and-acknowledgements)
+4. [Resources](#Resources)
 
 ## Description
 
@@ -17,9 +14,8 @@ Here's additional description
 ## Usage
 
 ## Visuals
-![digital-marketing-meeting](./assets/images/digital-marketing-meeting.jpg)
+![Horiseon](./assets/images/Horiseon-Search-Engine-Optimization.png)
 
-## Authors and Acknowledgements 
-
-```
-Code Block
+## Resources
+- [Live Site](https://1645558.github.io/seo-refactor/)
+- [Repository](https://github.com/1645558/seo-refactor)
