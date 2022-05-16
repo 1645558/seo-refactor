@@ -40,8 +40,8 @@ header nav a {
     margin-left: 25px;
 }
 
-/* changed .hero to #digital-marketing-image so there was no conusion on what it was */
-#digital-marketing-image {
+/* changed .hero to .digital-marketing-image so there was no confusion on what it was */
+.digital-marketing-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -143,49 +143,18 @@ aside {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+/* Changed all benefit-'s with just benefit*/
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
