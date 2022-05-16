@@ -7,9 +7,9 @@
 
 ## Description
 
-Here's a nice description
+This is a website marketed towards company's
 
-Here's additional description
+who want better SEO/Online reputation
 
 ## Visuals
 ![Horiseon](./assets/images/Horiseon-Search-Engine-Optimization.png)
