@@ -26,7 +26,7 @@ header h1 {
     color: #d9dcd6;
 }
 
-/*Changed all the div tags to nav tages*/
+/*Changed all the div tags to nav tags in header section*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -35,11 +35,7 @@ header nav {
     font-size: 20px;
 }
 
-header nav ul {
-    list-style-type: none;
-}
-
-header nav ul li {
+header nav a {
     display: inline-block;
     margin-left: 25px;
 }
