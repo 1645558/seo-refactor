@@ -11,8 +11,6 @@ Here's a nice description
 
 Here's additional description
 
-## Usage
-
 ## Visuals
 ![Horiseon](./assets/images/Horiseon-Search-Engine-Optimization.png)
 
